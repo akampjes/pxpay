@@ -66,9 +66,6 @@ Gem::Specification.new do |s|
       s.add_dependency(%q<builder>, [">= 0"])
       s.add_dependency(%q<nokogiri>, [">= 0"])
       s.add_dependency(%q<rest-client>, [">= 0"])
-      s.add_dependency(%q<nokogiri>, [">= 0"])
-      s.add_dependency(%q<rest-client>, [">= 0"])
-      s.add_dependency(%q<builder>, [">= 0"])
     end
   else
     s.add_dependency(%q<shoulda>, [">= 0"])
@@ -78,9 +75,6 @@ Gem::Specification.new do |s|
     s.add_dependency(%q<builder>, [">= 0"])
     s.add_dependency(%q<nokogiri>, [">= 0"])
     s.add_dependency(%q<rest-client>, [">= 0"])
-    s.add_dependency(%q<nokogiri>, [">= 0"])
-    s.add_dependency(%q<rest-client>, [">= 0"])
-    s.add_dependency(%q<builder>, [">= 0"])
   end
 end
 
